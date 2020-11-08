@@ -1,0 +1,285 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "data": {
+        "id": 0,
+        "slug": "rasteira-tira-dedo",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    },
+    {
+      "id": 1,
+      "data": {
+        "id": 1,
+        "slug": "rasteira-tira-dedo-2",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "data": {
+        "id": 2,
+        "slug": "rasteira-tira-dedo-3",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "data": {
+        "id": 3,
+        "slug": "rasteira-tira-dedo-4",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "data": {
+        "id": 4,
+        "slug": "rasteira-tira-dedo-5",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "data": {
+        "id": 5,
+        "slug": "rasteira-tira-dedo-6",
+        "name": "Rasteira Tira Dedo",        
+        "isActive": true,
+        "category": ["off", "sapatos"],
+        "title": "Rasteira Tira Dedo",
+        "gallery": ["prod02.jpg","prod02.jpg","prod02.jpg","prod02.jpg"],
+        "video": "https://www.youtube.com/embed/UprMhfWp6rQ",
+        "thumbnail": "prod02.jpg",
+        "information": {
+          "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+          "ref": "RT 0568 | 03.07.0653",
+          "price": {
+            "value": "69.00",
+            "promo": "55.20",
+            "featuredInstallment": "9.20",
+            "installments": ["55.20","27.60","18.40","13.80","11.04","9.20"]
+          },
+          "colors": [
+            {
+              "hexa": "#A9095E",
+              "name": "Fucsia"
+            },
+            {
+              "hexa": "#2A5A75",
+              "name": "Cinza"
+            },
+            {
+              "hexa": "#A14830",
+              "name": "Marrom"
+            },
+            {
+              "hexa": "#000000",
+              "name": "Preto"
+            }              
+          ],
+          "sizes": ["33","34","35","36","37","38","39","40","41","42"]
+        }
+      }
+    }          
+  ],  
+  "categories": [
+    {
+      "id": 0,
+      "slug": "sapatos",
+      "name": "Sapatos",
+      "isActive": true
+    },    {
+      "id": 1,
+      "slug": "bolsas",
+      "name": "Bolsas",
+      "isActive": true
+    },    {
+      "id": 2,
+      "slug": "acessorios",
+      "name": "Acessórios",
+      "isActive": true
+    },    {
+      "id": 3,
+      "slug": "off",
+      "name": "Off",
+      "isActive": true
+    }
+  ]
+}
